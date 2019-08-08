@@ -1,5 +1,6 @@
 def mario
-  phrase = "Thank You Mario! But Our Princess Is In Another Castle!"
+ def phrase = "Thank You Mario! But Our Princess Is In Another Castle!"
+ end
   puts phrase
 end
 
